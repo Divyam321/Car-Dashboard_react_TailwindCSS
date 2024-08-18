@@ -16,8 +16,8 @@ const billingData = [
         title: 'Payment Methods',
         content: 'Manage your payment methods. Ensure your payment information is up-to-date to avoid service interruptions.',
         methods: [
-            { type: 'Visa', last4: '1234', billingAddress: '123 Main St, Anytown, USA' },
-            { type: 'MasterCard', last4: '5678', billingAddress: '123 Main St, Anytown, USA' }
+            { type: 'Visa', last4: '1234', billingAddress: '123 Main street , India' },
+            { type: 'MasterCard', last4: '5678', billingAddress: '123 23 Street, India' }
         ],
     },
     {

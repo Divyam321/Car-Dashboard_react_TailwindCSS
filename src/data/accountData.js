@@ -6,8 +6,8 @@ const accountData = [
         title: 'Profile Information',
         content: 'Update your personal details including name, email, and contact information. Ensure your profile is up-to-date to receive important notifications.',
         details: [
-            { key: 'Name', value: 'John Doe' },
-            { key: 'Email', value: 'john.doe@example.com' },
+            { key: 'Name', value: 'Bill' },
+            { key: 'Email', value: 'bill@example.com' },
             { key: 'Phone', value: '+1234567890' }
         ],
     },
@@ -27,7 +27,7 @@ const accountData = [
         details: [
             { key: 'Last Payment Date', value: 'August 15, 2024' },
             { key: 'Payment Method', value: 'Visa ending in 1234' },
-            { key: 'Billing Address', value: '123 Main St, Anytown, USA' }
+            { key: 'Billing Address', value: '123 23 street , India' }
         ],
     },
 ];
